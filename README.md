@@ -1,6 +1,6 @@
-### Process
+### My Coding Process
 
-Made in React
+This was made in React
 
 1. To access the API using a local host, there was a "Fetching CORS error" which I eventually solved by making a proxy in package.json
 
