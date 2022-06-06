@@ -6,6 +6,6 @@ This was made in React
 
 "proxy": "https://ldt-tech-test.herokuapp.com/"
 
-2. The search bar submists its text (organiser ID) to the global context.  This ID is then sent to UserResults.jsx and filters through the entries that contain the same ID.
+2. The search bar submits its text (organiser ID) to the global context (RacelistContext.js).  This ID is then sent to UserResults.jsx and filters through the entries that contain the same ID.
 
 If I had the time I would... sum up the ticket prices and also have more search options available.
